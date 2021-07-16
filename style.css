@@ -1,0 +1,58 @@
+#main_icon{
+    margin-left: 100px;
+    margin-top:50px;
+}
+
+h1{
+    margin-left: 100;
+}
+
+.DG_li {
+    margin-top: 13px;
+    width: 70%;
+    border-radius: 100;
+    margin-left: 280;
+}
+
+.DG_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.DG
+    border-radius: 25px;
+}
+
+.DG_li p {
+    margin-top: 10px;
+}
+
+#carousel{
+    height: 600;
+    width: 70%
+}
+
+#img_2{
+    height: 600;
+    width: 1000px;
+    margin-left:10;
+}
+
+#img_1{
+    height: 600px;
+    width: 900px;
+    margin-left:10;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#pm{
+    height: 250;
+    border-radius: 50px;
+}
+
+#pm:hover{
+    height: 260;
+}
